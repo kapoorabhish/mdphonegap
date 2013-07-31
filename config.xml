@@ -17,6 +17,7 @@
         Hardeep Shoker 
     </author>
     <icon src="icon.png" />
+     <preference name="load-url-timeout" value="15000" />
     <preference name="show-splash-screen-spinner" value="false" />
 </widget>
 
