@@ -17,5 +17,6 @@
         Hardeep Shoker 
     </author>
     <icon src="icon.png" />
+    <preference name="show-splash-screen-spinner" value="false" />
 </widget>
 
