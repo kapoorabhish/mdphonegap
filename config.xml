@@ -14,7 +14,7 @@
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker 
+        Abhishek Kapoor 
     </author>
     <icon src="Octocat.png" />
      <preference name="load-url-timeout" value="15000" />
