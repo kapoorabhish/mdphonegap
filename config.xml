@@ -7,16 +7,16 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Exim-Guide</name>
+    <name>Abhish's Blog</name>
 
     <description>
-            Export Import Guide
+            Abhish's Blog
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Hardeep Shoker 
     </author>
-    <icon src="icon.png" />
+    <icon src="Octocat.png" />
      <preference name="load-url-timeout" value="15000" />
     <preference name="show-splash-screen-spinner" value="false" />
 </widget>
